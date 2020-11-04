@@ -1,4 +1,4 @@
-# Predicting-Health-of-Vehicle-Using-Sensor-Data
+# Predicitve Healh Maintenance for Vehicles by Analyzing Sensor Data
 This project aims to predict the health of the vehicle by analyzing vehicle sensor data and sends the result to the user via email.
 
 The complexity of vehicles is forever increasing with advancement of technology This increases the probability of accidents caused by vehicle related critical reasons. Keeping that in mind, we propose a Predictive Health Maintenance (PHM) system that analyzes the vehicle by obtaining sensor data. The LSTM approach for binary classification is used for processing the obtained data in the Raspberry Pi. The Raspberry Pi is used to create a plug and play module connected to the vehicles OBD-II port to perform processing of real time data. Eventually, the system notifies the relevant party of their vehicles health by sending a notification on their smart phone. 
